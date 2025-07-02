@@ -1,0 +1,41 @@
+Cricket Scoreboard Application
+ 
+Execution Step of Program
+
+1. Welcome Speech.
+2. Select Format of Match.
+3. Select Team Members.
+4. select Team for Batting.
+4. Batting lineup of selected Team.
+5. Bowling lineup of opposite Team.
+6. Enter Runs for every Overs.
+7. Count Average Runs,4's,6's extras's after Completing An Over.
+8. A 10sec. break after completing 1st Innings.
+9. Starting of second Innings.
+10. Batting Lineup of second Team.
+11. Bowling Lineup of First Team.
+12. Enter Runs for every Overs.
+13. Count Average Runs,4's,6's extras's after Completing An Over.
+14. A 10sec. break after completing 1st Innings.
+15. Declaring Winning Team.
+16.Count Average Runs,4's,6's extras's after Completing 1st Innings.
+
+
+class : 
+
+BowlingLineup
+BattingLineup
+MatchStart
+Overs
+Average Calculator
+Scoreboard
+
+
+packages
+
+1. Bowling
+2. Batting
+3. Scorecard
+4. Overs
+5. MatchStart
+ 
